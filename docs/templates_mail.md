@@ -4,6 +4,7 @@ If successful 2 emails should be sent. One for *enrollment* and one for *success
 `HackBio Logo`
 ### HackBio: You are now enrolled!
 Dear {{Username}},
+
 Thank you for entrusting us with your tech transformation in Life Sciences 🥰. We are glad to confirm that you are now enrolled in the {{Workshop Name}} Workshop. The workshop starts on {{Workshop start date}}. 
 On the start date, you will be able to launch the workshop.
 
@@ -14,7 +15,7 @@ If you have further questions: write to us at support@thehackbio.com
 Once again thank you!
 
 Bests
-The HackBio {https://thehackbio.com} Team!
+#### The HackBio {https://thehackbio.com} Team!
 
 `HackBio Logo`
 ### HackBio: Transaction Successful!
@@ -26,7 +27,7 @@ Watch out for our follow up email (in the next few seconds) on how to log on to 
 For refund, kindly write support@thehackbio.com to process it {takes 20-30 working days}. 
 
 Bests
-The HackBio Team!
+#### The HackBio Team!
 
 ## Failed Transaction
 Dear {{Username}},
@@ -35,4 +36,4 @@ Your transaction was not succesful 😫. We advice that you try another card or 
 If you are still unable to process your payments, please write to support@thehackbio.com to provide you with manual options (This is only valid if we recieve your mail at least 24 hours before the workshop start date). 
 
 Bests
-The HackBio Team!
+#### The HackBio Team!
