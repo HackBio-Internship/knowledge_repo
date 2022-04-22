@@ -19,6 +19,7 @@ Bests
 
 `HackBio Logo`
 ### HackBio: Transaction Successful!
+
 Dear {{Username}},
 Your transaction was Succesful 😊. 
 Big bold icon for success (https://openjournalsystems.com/file/2017/07/payment-success.png)
@@ -30,6 +31,7 @@ Bests
 #### The HackBio Team!
 
 ## Failed Transaction
+
 Dear {{Username}},
 Your transaction was not succesful 😫. We advice that you try another card or payment channel option available on our website. 
 
